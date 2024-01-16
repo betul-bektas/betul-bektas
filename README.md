@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betül Bektaş</h1>
-<h3 align="center">I graduated from Konya Necmettin Erbakan University Computer Engineering department. I have had internship experience in two different companies in the field of web software development. Due to the distribution of web and desktop applications, I continue to distribute using .net core applications.</h3>
+<h3 align="center">I graduated from Necmettin Erbakan University Computer Engineering department. I have had internship experience in two different companies in the field of web software development. Due to the distribution of web and desktop applications, I continue to distribute using .net core applications.</h3>
 
 - 🌱 I’m currently learning **.NET**
 
